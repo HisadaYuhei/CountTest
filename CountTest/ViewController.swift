@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         label.text = String(number)
         count = 0
         result = 0
-        //array.removeAll()
+        array.removeAll()
     }
     @IBAction func buttontap_1(){
         //number = number + 1
